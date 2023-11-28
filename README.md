@@ -15,5 +15,5 @@ I'm a cloud engineering student at ALTSCHOOL Africa School of Software Engineeri
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bolajiayodeji&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ObikeMartins&show_icons=true&include_all_commits=true&hide_border=true" alt="Martin's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ObikeMartins&langs_count=8&layout=compact&hide_border=true" alt="Martin's GitHub stats" /> |
 | ------------- | ------------- |
